@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.iconBorder {
+  font-size: 2rem;
+  color: white;
+  padding: 0.2rem;
+  padding-left: .7rem;
+  padding-right: .7rem;
+  border: 0.25rem solid #006eff;
+  border-radius: 0.25rem;
+  background-color: #006eff;
+}
+
+header .card {
+  border: none;
+  border-radius: 0;
+}
+
+header .card a {
+  padding: 0.4rem;
+  padding-left: 1.1rem;
+  padding-right: 1.1rem;
+}
+
+header .card .container {
+  width: 32%;
+}
+
+header .card .btn-outline-light:hover span {
+  color: black;
+}
+
+main .card {
+  border: none;
+}
+
+main .card .card-body a {
+  text-decoration: none;
+}
+
+main #PriceHeading {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+main #PriceHeading h3 {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+main #PriceHeading p {
+  font-size: 1.2rem;
+  font-weight: lighter;
+}
+
+main small {
+  font-size: 1rem;
+  font-weight: lighter;
+}
+
+main h4.text-start {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+main h1.pricing-card-title {
+  font-size: 3.5rem;
+  font-weight: bolder;
+}
+
+main .firstLi {
+  font-weight: bold;
+}
+
+main #bottomText {
+  font-size: 1.2rem;
+  font-weight: lighter;
+}
+
+main form button span {
+  font-size: 1.2rem;
+}
+/*# sourceMappingURL=bootstrap.css.map */
